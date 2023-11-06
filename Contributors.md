@@ -4313,6 +4313,7 @@ Gauresh Rathi
 - [Girish Nandan ](https://github.com/jngnandan)
 - [Feril Sunu] (https://github.com/ferilsunu)
 - [Mekkcyber] (https://github.com/MekkCyber)
+- [Ivan Mendes] (https://github.com/ivandaniel15)
 - [Rehan Abbas] (https://github.com/Rehan1110)
 - [ziyu] (https://github.com/zhiyuS)
 - [lbk01](https:/github.com/lbk01)
